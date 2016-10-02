@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universal</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://qaschool.pl/</link>
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Sep 2016 13:47:08 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://qaschool.pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Wroclaw QA School is open!</title>
-      <link>http://replace-this-with-your-hugo-site.com/blog/2016/09/17/go-is-for-lovers/</link>
+      <link>http://qaschool.pl/blog/2016/09/17/go-is-for-lovers/</link>
       <pubDate>Sat, 17 Sep 2016 13:47:08 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/blog/2016/09/17/go-is-for-lovers/</guid>
+      <guid>http://qaschool.pl/blog/2016/09/17/go-is-for-lovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -73,7 +73,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;http://qaschool.pl/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -90,7 +90,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;http://qaschool.pl/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -278,7 +278,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;http://qaschool.pl/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -357,10 +357,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>http://replace-this-with-your-hugo-site.com/blog/2015/10/10/migrate-from-jekyll/</link>
+      <link>http://qaschool.pl/blog/2015/10/10/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <guid>http://qaschool.pl/blog/2015/10/10/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -385,7 +385,7 @@ With Jekyll, something that looked like&lt;/p&gt;
 
 &lt;h2 id=&#34;create-your-hugo-configuration-file&#34;&gt;Create your Hugo configuration file&lt;/h2&gt;
 
-&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://qaschool.pl/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
 
 &lt;h2 id=&#34;set-your-configuration-publish-folder-to-site&#34;&gt;Set your configuration publish folder to &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
 
@@ -411,13 +411,13 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 
 &lt;h2 id=&#34;convert-jekyll-templates-to-hugo-templates&#34;&gt;Convert Jekyll templates to Hugo templates&lt;/h2&gt;
 
-&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://qaschool.pl/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
 
 &lt;p&gt;As a single reference data point, converting my templates for &lt;a href=&#34;http://heyitsalex.net/&#34;&gt;heyitsalex.net&lt;/a&gt; took me no more than a few hours.&lt;/p&gt;
 
 &lt;h2 id=&#34;convert-jekyll-plugins-to-hugo-shortcodes&#34;&gt;Convert Jekyll plugins to Hugo shortcodes&lt;/h2&gt;
 
-&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
+&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://qaschool.pl/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
 
 &lt;h3 id=&#34;implementation&#34;&gt;Implementation&lt;/h3&gt;
 
@@ -534,10 +534,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Linked post</title>
-      <link>http://replace-this-with-your-hugo-site.com/blog/2015/10/02/linked-post/</link>
+      <link>http://qaschool.pl/blog/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/blog/2015/10/02/linked-post/</guid>
+      <guid>http://qaschool.pl/blog/2015/10/02/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
@@ -553,10 +553,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://replace-this-with-your-hugo-site.com/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://qaschool.pl/blog/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>http://qaschool.pl/blog/2015/08/03/hugo-is-for-lovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -566,7 +566,7 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://qaschool.pl/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;
 
@@ -640,10 +640,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>Creating a new theme</title>
-      <link>http://replace-this-with-your-hugo-site.com/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://qaschool.pl/blog/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://qaschool.pl/blog/2015/06/24/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1742,10 +1742,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>Contact</title>
-      <link>http://replace-this-with-your-hugo-site.com/contact/</link>
+      <link>http://qaschool.pl/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/contact/</guid>
+      <guid>http://qaschool.pl/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
@@ -1758,10 +1758,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>FAQ</title>
-      <link>http://replace-this-with-your-hugo-site.com/faq/</link>
+      <link>http://qaschool.pl/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/faq/</guid>
+      <guid>http://qaschool.pl/faq/</guid>
       <description>
 
 &lt;p&gt;On this page we tried to gather answers to some most popular questions. If it does not answer your particular question - feel free to write us in &amp;lsquo;Contuct Us&amp;rsquo; form. We are always glad to hear from you.&lt;/p&gt;
