@@ -6,15 +6,63 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Sep 2016 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2016 22:34:13 +0200</lastBuildDate>
     <atom:link href="http://qaschool.pl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What is automated software testing?</title>
+      <link>http://qaschool.pl/news/2016/10/03/what-is-automation/</link>
+      <pubDate>Mon, 03 Oct 2016 22:34:13 +0200</pubDate>
+      
+      <guid>http://qaschool.pl/news/2016/10/03/what-is-automation/</guid>
+      <description>&lt;p&gt;&lt;b style=&#34;font-size:20px;color:#00B8F5&#34;&gt;Automated Software Testing&lt;/b&gt; is the application of automation technology throughout the software testing lifecycle with the goal of
+delivering capability faster and more affordably. The methodologies and products used to implement automation vary widely,
+with a range of results. However, expertly executed and used to its full potential, automation is extremely beneficial and has the
+potential to transform how large, complex, software-based systems are tested and delivered.
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;b style=&#34;font-size:20px;color:#00B8F5&#34;&gt;The Benefits of Automation&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Automated software testing offers a revolutionary alternative to manual testing methods. This technology enables the automation of testing
+tasks and provides broad testing coverage and functionality across the entire software testing lifecycle. Implemented correctly,
+automated software testing offers the following advantages over manual testing:
+&lt;ul&gt;
+&lt;li&gt;&lt;b style=&#34;font-size:16px&#34;&gt;Improved software quality&lt;/b&gt;: Repeatable, consistent and thorough automated tests support the delivery of high quality software.&lt;/li&gt;
+&lt;li&gt;&lt;b style=&#34;font-size:16px&#34;&gt;Improved documentation&lt;/b&gt;: Automated tests readily produce documented, objective, quality evidence, including requirements traceability
+and comprehensive pass/fail results.&lt;/li&gt;
+&lt;li&gt;&lt;b style=&#34;font-size:16px&#34;&gt;Reduced testing time and manpower&lt;/b&gt;: Automated tests run significantly faster than manual tests, are less labor-intensive,
+and provide the capability to verify thousands to millions of test permutations in minutes to hours.&lt;/li&gt;
+&lt;li&gt;&lt;b style=&#34;font-size:16px&#34;&gt;Cost savings&lt;/b&gt;: Automation can markedly reduce the costs involved in producing first-rate software.
+Savings result from not only reduced test time and manpower but also from lower lifecycle costs as a result
+of improved software quality and documentation.&lt;/li&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;img src=&#34;http://www.bennorthrop.com/Essays/2014/automated-testing-roi-perceived.gif&#34;&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;b style=&#34;font-size:20px;color:#00B8F5&#34;&gt;Implementing a Test Automation Strategy&lt;/b&gt;
+&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;The move to agile has led many teams to adopt a pyramid testing strategy.
+The test automation pyramid strategy calls for automating tests at three different levels.
+Unit testing represents the base and biggest percentage of this test automation pyramid.
+Next comes, service layer, or API testing. And finally, GUI tests sit at the top. The pyramid looks something like this:
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;img src=&#34;https://smartbear.com/SmartBear/media/images/Resources/articles/content/test-automation-pyramid.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wroclaw QA School is open!</title>
-      <link>http://qaschool.pl/blog/2016/09/17/go-is-for-lovers/</link>
+      <link>http://qaschool.pl/news/2016/09/17/go-is-for-lovers/</link>
       <pubDate>Sat, 17 Sep 2016 13:47:08 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2016/09/17/go-is-for-lovers/</guid>
+      <guid>http://qaschool.pl/news/2016/09/17/go-is-for-lovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -357,10 +405,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>http://qaschool.pl/blog/2015/10/10/migrate-from-jekyll/</link>
+      <link>http://qaschool.pl/news/2015/10/10/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/10/10/migrate-from-jekyll/</guid>
+      <guid>http://qaschool.pl/news/2015/10/10/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -534,10 +582,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Linked post</title>
-      <link>http://qaschool.pl/blog/2015/10/02/linked-post/</link>
+      <link>http://qaschool.pl/news/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/10/02/linked-post/</guid>
+      <guid>http://qaschool.pl/news/2015/10/02/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
@@ -553,10 +601,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://qaschool.pl/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://qaschool.pl/news/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>http://qaschool.pl/news/2015/08/03/hugo-is-for-lovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -640,10 +688,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>Creating a new theme</title>
-      <link>http://qaschool.pl/blog/2015/06/24/creating-a-new-theme/</link>
+      <link>http://qaschool.pl/news/2015/06/24/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/06/24/creating-a-new-theme/</guid>
+      <guid>http://qaschool.pl/news/2015/06/24/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1757,58 +1805,266 @@ $ vi themes/zafta/layouts/_default/single.html
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>http://qaschool.pl/faq/</link>
+      <title>Courses</title>
+      <link>http://qaschool.pl/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://qaschool.pl/faq/</guid>
+      <guid>http://qaschool.pl/courses/</guid>
       <description>
 
-&lt;p&gt;On this page we tried to gather answers to some most popular questions. If it does not answer your particular question - feel free to write us in &amp;lsquo;Contuct Us&amp;rsquo; form. We are always glad to hear from you.&lt;/p&gt;
+&lt;p&gt;A number of courses are available at Wroclaw QA School. Please find details below:&lt;/p&gt;
 
-&lt;h2 id=&#34;1-what-should-i-know-to-become-a-qa&#34;&gt;1. WHAT SHOULD I KNOW TO BECOME A QA?&lt;/h2&gt;
+&lt;h2 id=&#34;introduction-to-quality-assurance&#34;&gt;Introduction to Quality Assurance&lt;/h2&gt;
 
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+&lt;p&gt;Target audience of this course are those, who want to join IT.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; &lt;br/&gt;
+&lt;em&gt;Module 1.&lt;/em&gt;  Introduction into IT. &lt;br/&gt;
+&lt;em&gt;Module 2.&lt;/em&gt;  Software Development Life Cycle.&lt;br/&gt;
+&lt;em&gt;Module 3.&lt;/em&gt; Testing Principles and Types.&lt;br/&gt;
+&lt;em&gt;Module 4.&lt;/em&gt; Test Design Techniques.&lt;br/&gt;
+&lt;em&gt;Module 5.&lt;/em&gt; Requirements Analysis.&lt;br/&gt;
+&lt;em&gt;Module 6.&lt;/em&gt; QA Documentation.&lt;br/&gt;
+&lt;em&gt;Module 7.&lt;/em&gt; Bugs.&lt;br/&gt;
+&lt;em&gt;Module 8.&lt;/em&gt; Web Testing.&lt;br/&gt;
+&lt;em&gt;Module 9.&lt;/em&gt; Mobile Testing.&lt;br/&gt;
+&lt;em&gt;Module 10.&lt;/em&gt; Agile: Scrum Team Game.&lt;br/&gt;
+&lt;em&gt;Module 11.&lt;/em&gt; Jira - Practical Course.&lt;br/&gt;
+&lt;em&gt;Module 12.&lt;/em&gt; Introduction into Test Automation.&lt;br/&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;2-why-wokring-as-qa-is-awesome&#34;&gt;2. WHY WOKRING AS QA IS AWESOME?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bonuses:&lt;/strong&gt; &lt;br/&gt;
+1. CV creation rules.&lt;br/&gt;
+2. Recommendations to top students.&lt;/p&gt;
 
-&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/what-is-automation/&#34;&gt;More information.&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;3-in-which-language-you-teach&#34;&gt;3. IN WHICH LANGUAGE YOU TEACH?&lt;/h2&gt;
+&lt;h2 id=&#34;basics-of-web-automation-java-and-selenium-webdriver&#34;&gt;Basics of Web Automation: Java and Selenium WebDriver&lt;/h2&gt;
 
-&lt;p&gt;Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven&amp;rsquo;t heard of them accusamus labore sustainable VHS.&lt;/p&gt;
+&lt;p&gt;Target audience of this course are those, who work as manual QA engineer and want to develop themselves in Test Automation.&lt;/p&gt;
 
-&lt;h2 id=&#34;4-how-do-i-know-that-automation-is-not-too-difficult-for-me&#34;&gt;4. HOW DO I KNOW THAT AUTOMATION IS NOT TOO DIFFICULT FOR ME?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; &lt;br/&gt;
+&lt;em&gt;Module 1.&lt;/em&gt; Introduction. Theory. &lt;br/&gt;
+&lt;em&gt;Module 2.&lt;/em&gt; Java basics.&lt;br/&gt;
+&lt;em&gt;Module 3.&lt;/em&gt; Selenium WebDriver.&lt;br/&gt;
+&lt;em&gt;Module 4.&lt;/em&gt; Locators.&lt;br/&gt;
+&lt;em&gt;Module 5.&lt;/em&gt; PageObject Pattern and project structure.&lt;br/&gt;
+&lt;em&gt;Module 6.&lt;/em&gt; Unit-testing frameworks (TestNG/JUnit).&lt;br/&gt;
+&lt;em&gt;Module 7.&lt;/em&gt; Build instruments (Maven/Ant/Gradle).&lt;br/&gt;
+&lt;em&gt;Module 8.&lt;/em&gt; Practice.&lt;br/&gt;
+&lt;em&gt;Module 9.&lt;/em&gt; Selenium tips and tricks + Practice.&lt;br/&gt;
+&lt;em&gt;Module 10.&lt;/em&gt; Exam.&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bonuses:&lt;/strong&gt; &lt;br/&gt;
+1. Java Database Connection Module. &lt;br/&gt;
+2. HTTP and JSON (API testing with RestAssured framework). &lt;br/&gt;
+3. Java Mail module.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/what-is-automation/&#34;&gt;More information.&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;5-i-have-no-questions-i-m-just-bored&#34;&gt;5. I HAVE NO QUESTIONS, I&amp;rsquo;M JUST BORED.&lt;/h2&gt;
+&lt;h2 id=&#34;basics-of-mobile-automation-java-and-appium&#34;&gt;Basics of Mobile Automation: Java and Appium&lt;/h2&gt;
 
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;
+&lt;p&gt;Target audience of this course are those, who work as manual QA engineer and want to develop themselves in Test Automation.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
-&lt;li&gt;Vestibulum auctor dapibus neque.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Topics:&lt;/strong&gt; &lt;br/&gt;
+&lt;em&gt;Module 1.&lt;/em&gt; Introduction. Theory. &lt;br/&gt;
+&lt;em&gt;Module 2.&lt;/em&gt; Java basics.&lt;br/&gt;
+&lt;em&gt;Module 3.&lt;/em&gt; Appium framework.&lt;br/&gt;
+&lt;em&gt;Module 4.&lt;/em&gt; Environment setting.&lt;br/&gt;
+&lt;em&gt;Module 5.&lt;/em&gt; Searching for elements.&lt;br/&gt;
+&lt;em&gt;Module 6.&lt;/em&gt; Page Object Pattern, Page Element Pattern. Project structure (Part 1).&lt;br/&gt;
+&lt;em&gt;Module 7.&lt;/em&gt; Page Object Pattern, Page Element Pattern. Project structure (Part 2).&lt;br/&gt;
+&lt;em&gt;Module 8.&lt;/em&gt; WEB-application automation on mobile devices.&lt;br/&gt;
+&lt;em&gt;Module 9.&lt;/em&gt; Tips and tricks.&lt;br/&gt;
+&lt;em&gt;Module 10.&lt;/em&gt; Exam.&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonuses:&lt;/strong&gt; &lt;br/&gt;
+1. Java Database Connection Module. &lt;br/&gt;
+2. HTTP and JSON (API testing with RestAssured framework). &lt;br/&gt;
+3. Java Mail module.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/blog/what-is-automation/&#34;&gt;More information.&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manual QA</title>
+      <link>http://qaschool.pl/manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://qaschool.pl/manual/</guid>
+      <description>&lt;!-- #######  YAY, I AM THE SOURCE EDITOR! #########--&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;In case you haven&amp;rsquo;t found the answer for your question please feel free to contact us, our customer support will be happy to help you.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;p&gt;&lt;strong&gt;Module 1 - Introduction into IT&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Software vs Hardware. Types of Software&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;IT professions and their responsibilities: Developers: frontend/backend, QA, PM, BA, DevOps&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;QA profession - responsibilities and goals&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Why testing is a good entry point in IT?&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;QA, QC and Testing differences&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;QA career path and professional growth&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Module 2 - Software Development Life Cycle&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Software development models and methodologies&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;QA role and tasks on each software development stage&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Environments and delivery process (CI, CD)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Source code management systems&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 1&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Module 3 - Testing Principles and Types&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;7 principles of software testing&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Testing types by different criteria&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Testing methods and levels&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Verification vs Validation&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 2&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 4 - Test Design Techniques&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Boundary Value analysis&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Equivalent Class Partitioning&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Pairwise&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Decision Tables&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Testing techniques on practice&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 3&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 5 - Requirements Analysis &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Requirements Types &lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Requirements Analysis Process&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Criteria of Good Requirements&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Traceability&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Practical part&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 4&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 6 - QA Documentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;When and how to create documents&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;QA Plan, Test Plan, Test Strategy&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Test Suite, Test Case, Test Scenario&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Check List&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Bug Report&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Test Report&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Tracking and Tracing of test documentation&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Document templates&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 5&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 7 - Bugs&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Issue, Bug, Defect, Mistake, Error, Fault, Failure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Software bugs and their symptoms&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Software bug components and structure&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Bug investigation and reporting&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Software bug life cycle&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Issue tracking systems &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 6&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 8 - Web Testing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Web product types&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Web products architecture&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Communication protocols in Web&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Specifics of Web testing&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Browser tools and add-ons&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Cross-browser testing&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 7&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 9 - Mobile Testing&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;ul&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Mobile Product Types&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Mobile Products Architecture&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Mobile Testing Specifics and Approaches&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Tools for iOS testing&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Tools for Android testing&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&#34;font-weight: 400;&#34;&gt;&lt;span style=&#34;font-weight: 400;&#34;&gt;Cross-platform tools&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Test: Module 8&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 10 - Agile: Scrum Team Game&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;TODO&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 11 - Jira - Practical Course&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;strong&gt;TODO&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Module 12 - Introduction into Test Automation&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 style=&#34;color: #5e9ca0;&#34;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/h1&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Automation Course Programme</title>
+      <link>http://qaschool.pl/mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://qaschool.pl/mobile/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;
+
+&lt;p&gt;Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.&lt;/p&gt;
+
+&lt;p&gt;Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Automation Course Programme</title>
+      <link>http://qaschool.pl/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://qaschool.pl/web/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;
+
+&lt;p&gt;Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.&lt;/p&gt;
+
+&lt;p&gt;Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.&lt;/p&gt;
 </description>
     </item>
     

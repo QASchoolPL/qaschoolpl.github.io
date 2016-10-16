@@ -11,10 +11,10 @@
     
     <item>
       <title>Linked post</title>
-      <link>http://qaschool.pl/blog/2015/10/02/linked-post/</link>
+      <link>http://qaschool.pl/news/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/10/02/linked-post/</guid>
+      <guid>http://qaschool.pl/news/2015/10/02/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;

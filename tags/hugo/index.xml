@@ -11,10 +11,10 @@
     
     <item>
       <title>Linked post</title>
-      <link>http://qaschool.pl/blog/2015/10/02/linked-post/</link>
+      <link>http://qaschool.pl/news/2015/10/02/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/10/02/linked-post/</guid>
+      <guid>http://qaschool.pl/news/2015/10/02/linked-post/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;menu = &amp;quot;main&amp;quot;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://qaschool.pl/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <link>http://qaschool.pl/news/2015/08/03/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://qaschool.pl/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <guid>http://qaschool.pl/news/2015/08/03/hugo-is-for-lovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
